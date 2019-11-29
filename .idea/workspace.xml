@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eada2fc-ebe0-45f4-a534-72f608ec7db7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DZ_Generics/Utils.java" afterDir="false" />
+    <list default="true" id="2eada2fc-ebe0-45f4-a534-72f608ec7db7" name="Default Changelist" comment="29.11&#10;16.46">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DZ_Generics/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ_Generics/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DZ_Generics/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ_Generics/Utils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +47,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ_Generics.Utils" />
+      <module name="17102019_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DZ_Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Utils" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -74,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="29.11&#10;16.46" />
+    <option name="LAST_COMMIT_MESSAGE" value="29.11&#10;16.46" />
   </component>
 </project>

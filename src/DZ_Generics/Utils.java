@@ -12,16 +12,16 @@ public class Utils extends Box {
     }
     //В классе Utils создать метод, который принимает три любых объекта и возвращает один (случайный) из переданных.
 
-    public <T> T getRandomObject(T firstObj, T secondObj, T thirdObj) {
+    public static  <T> T getRandomObject(T firstObj, T secondObj, T thirdObj) {
 
-        final int max = 3;
+        final int max = 2;
         final int rnd = rnd(max);
         switch (rnd) {
-            case 1:
+            case 0:
                 return firstObj;
-            case 2:
+            case 1:
                 return secondObj;
-            case 3:
+            case 2:
                 return thirdObj;
             default:
                 System.out.println("Этого не могло произойти");
@@ -34,6 +34,6 @@ public class Utils extends Box {
     }
 
     public static void main(String[] args) {
-        
+        System.out.println(getRandomObject(1, "тринадцать", 2.68));
     }
 }
